@@ -1,0 +1,16 @@
+header{
+    background-color: rgb(54, 115, 207);
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+    background-size: 400px;
+    height: 100px;
+}
+header > img {
+    display: block;
+}
+p,h1 {
+    margin: 0;
+}
+.first{
+    margin-bottom: 10px;
+}
