@@ -8,12 +8,17 @@ header{
     background-size: 400px;
     height: 100px;
 }
+/* questo è giusto per buttare giù qualcosa in attesa della correzzione */
 header > img {
     display: block;
 }
-p,h1 {
-    margin: 0;
+h1 {
+    margin:0;
+    font-size: 50px;
 }
+p{
+    margin: 0;
+}    
 .first{
     margin-bottom: 10px;
 }
